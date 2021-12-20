@@ -3,6 +3,14 @@ Simple flask web app template with three tabs (Home-Login-Logout) and security u
 
 **The test email and password are _'mywebsite'_ and _'mywebsite'_.**
 
+
+
+<img width="1151" alt="Screen Shot 2021-12-20 at 9 43 34 AM" src="https://user-images.githubusercontent.com/43188404/146785513-bbaab7e0-9116-4e53-b1d5-b3916a5e4c7f.png">
+
+
+<img width="1301" alt="Screen Shot 2021-12-20 at 9 43 52 AM" src="https://user-images.githubusercontent.com/43188404/146785530-f17aa560-bf4a-4a16-99d8-24c6a6039cea.png">
+
+
 To run the app, you can either start a virtual environment or just run locally on your command line.
 
 Running locally from the command line, run:
